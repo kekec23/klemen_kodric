@@ -1,1 +1,2 @@
 1. Vse datoteke so imele status unknown
+2. Vse datoteke so imele status modified
